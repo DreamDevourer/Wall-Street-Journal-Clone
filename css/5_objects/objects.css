@@ -1,0 +1,11 @@
+/*
+You are inside:
+
+5 - Objects
+Following the principles of OOCSs (object-oriented CSS), here is where we will have our little "objects", 
+which are nothing more than small pieces of the interface, in general, patterns that are repeated throughout 
+the site and who may have or not a visual layer above.
+We only use classes here. It is where we begin to declare the structure of our elements.
+Here is where we make the patterns of buttons, lists, panels, etc. At that time, only the use of classes are 
+also allowed.
+*/
